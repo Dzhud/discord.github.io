@@ -16,6 +16,10 @@
   font-size: 12px;
   background-color: #EDF2F0;
   color: #B4B4B4;
+  
+  margin-top: 20px;
+  border-radius: 30px;
+    
 }
 
 /**/
@@ -25,6 +29,7 @@
   height: 600px;
   padding: 25px;
   background-color: #FDFDFD;
+ #display: none;
 }
 
 .container {
@@ -205,6 +210,10 @@
   position: absolute;
   transition: 1.25s;
 }
+
+
+
+
 
 .is-gx {
   animation: is-gx 1.25s;
